@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Render Visibility Tools",
-    "author": "3DLP, with ChatGPT assistance",
+    "author": "3DLP, with AI assistance",
     "version": (1, 2, 0),
     "blender": (3, 6, 0),
     "location": "Object > Render Visibility Tools",
