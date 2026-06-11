@@ -73,6 +73,8 @@ This choice keeps the addon simple and avoids duplicating Blender's existing col
 
 ### From a ZIP file
 
+For installation, download the addon package from the Releases section.
+
 1. Download the ZIP file from the GitHub Release page.
 2. Open Blender.
 3. Go to `Edit > Preferences > Add-ons`.
